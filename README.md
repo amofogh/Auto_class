@@ -1,4 +1,4 @@
-# Auto_class
+# Auto_class_daan.ir
 #### auto class for daan.ir
 
 برنامه ورود خودکار به سامانه اموزشی دان دانشگاه ازاد 
